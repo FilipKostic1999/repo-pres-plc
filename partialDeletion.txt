@@ -1,0 +1,45 @@
+Heart Play allows users to permanently delete their in-game messages and personal profile data while keeping their account active.
+This feature offers greater control over personal information without requiring full account deletion.
+
+1. Delete directly from the app
+
+You can delete your data directly from the in-app settings:
+Settings → Delete All Data (Partial)
+Once confirmed, all your in-game chat messages, AI interactions, and profile information are permanently erased. This cannot be undone.
+Your authentication credentials, purchases, and app access remain intact.
+
+2. Request deletion by email
+
+If the app is unavailable, you can request data deletion by contacting:
+📩 heartplayservice@gmail.com
+
+Please include your account email and any details needed to identify your account.
+A support operator will process your request and confirm the deletion.
+
+
+
+
+The following information is permanently erased once data deletion is confirmed:
+
+All chat messages and AI-generated responses.
+
+Your in-game user profile.
+
+
+
+Data retained:
+
+The following data remains stored after partial data deletion:
+
+Your authentication credentials (so you can continue accessing the app).
+
+Your custom characters, in-game currency, and purchase history.
+
+Your device ID and provider ID (Google or Apple), used for account access and security.
+
+
+
+
+Data retained for security reasons:
+
+Minimal data (hashed device ID, account email, and provider ID) may be stored for up to 24 months to prevent fraud, detect abuse, or comply with legal obligations.
