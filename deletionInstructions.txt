@@ -1,0 +1,38 @@
+Heart Play account and data deletion guide:
+
+There are 2 options to delete your account on Heart Play.
+The first one is to delete your account and all associated data
+directly from the app´s settings. Once you see the deletion confirmation,
+your account, authentication and all in-game data are permanently
+deleted.
+
+The second option, should the app not be available for some reason,
+is to email "heartplayservice@gmail.com". In that case your account and
+in-game data will be deleted by a human operator. You might need to
+provide basic account info on that request (such as email or anything
+the operator needs in order to identify your account).
+
+
+
+Data that is erased permanently once the account deletion is requested and performed
+either from the app or through a human operator:
+
+1. Your authentication is erased from our database. Meaning you will no longer
+be recognised as a user of the app and you will not be able to login unless you
+sign up again and create a new account.
+
+2. All your chat messages and AI responses, as well as the custom characters,
+in game currency, billing chronology, and all other in-game data is permanently
+erased.
+
+
+
+
+Data we keep for security (interference detection or unlawful behaviour from abusers):
+
+1. We keep a hashed device ID of the phone/system you used in order to run the app.
+2. We keep your email adress in a list of past users.
+3. We keep your provider ID (Google or Apple, depending what you signed in with).
+4. We erase that data too after a period of 24 months. The period can be much longer
+if abuse or tampering is detected or suspected from a specific user.
+
